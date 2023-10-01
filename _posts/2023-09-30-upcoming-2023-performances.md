@@ -2,7 +2,7 @@
 title: "Upcoming 2023 Performances"
 date: 2023-09-30
 categories:
-  - blog
+  - performances
 ---
 
 # Tonal Harmony Upcoming Performances

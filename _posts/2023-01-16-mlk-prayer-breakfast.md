@@ -2,7 +2,7 @@
 title: "MLK Prayer Breakfast"
 date: 2023-01-16
 categories:
-  - blog
+  - performances
 ---
 
 # Tonal Harmony Performance at MLK Leaders Prayer Breakfast
