@@ -1,7 +1,7 @@
 title: Tonal Harmony
 email:
 description: >-
-  Tonal Harmony is a small Round Rock, TX are based singing group.
+  Tonal Harmony is a small Round Rock, TX area based singing group.
 twitter_username: 
 github_username: 
 minimal_mistakes_skin: air
@@ -31,7 +31,7 @@ include:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-# Plugins (previously gems:)
+# Plugins
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
