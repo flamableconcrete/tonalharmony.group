@@ -6,6 +6,7 @@ twitter_username:
 github_username: 
 minimal_mistakes_skin: air
 search: true
+logo: /assets/images/tonal-harmony-logo.png
 
 # Build settings
 markdown: kramdown
@@ -82,6 +83,7 @@ defaults:
       comments: true
       share: true
       related: true
+      show_date: true
   # _pages
   - scope:
       path: "_pages"
