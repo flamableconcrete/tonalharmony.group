@@ -25,7 +25,7 @@ Here are the dates and details for our next three performances:
 - **Address:** 103 Chamber Way, Georgetown, TX 78626
 - **Performing:** America the Beautiful
   - [Practice YouTube](https://youtu.be/7ImnayzcUQw)
-  - [Practice sheet music](https://www.jwpepper.com/America-the-Beautiful/10553010.item)
+  - [Practice sheet music](https://www.jwpepper.com/America-the-Beautiful/10553010.item){:target="_blank"}
 
 ## Field of Honor: Veterans Day
 
