@@ -36,8 +36,7 @@ Here are the dates and details for our next three performances:
 - **Address:** 103 Chamber Way, Georgetown, TX 78626
 - **Performing:**
   - Opening Hymn: In Flanders Fields
-    - [Practice YouTube new?](https://youtu.be/3g-VBcnLdBM)
-    - [Practice YouTube old?](https://youtu.be/mI-2EiX-3gc)
+    - [Practice YouTube](https://youtu.be/3g-VBcnLdBM)
   - Closing Hymn: Until Love is Spoken
     - [Practice YouTube](https://youtu.be/PEdg9_sZfwA)
 
