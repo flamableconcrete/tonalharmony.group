@@ -23,8 +23,8 @@ Here are the dates and details for our next three performances:
 - **Date:** November 5, 2023 (Sunday)
 - **Time:** 1:30 PM
 - **Location:** Georgetown Field of Honor
-- **Address:** 
-Hammerlun Center for Leadership and Learning 507 E University Ave, Georgetown, TX 78626, USA- **Performing:** America the Beautiful
+- **Address:** Hammerlun Center for Leadership and Learning 507 E University Ave, Georgetown, TX 78626
+- **Performing:** America the Beautiful
   - [Practice YouTube](https://youtu.be/7ImnayzcUQw)
   - [Practice sheet music](https://www.jwpepper.com/America-the-Beautiful/10553010.item){:target="_blank"}
 
@@ -33,7 +33,7 @@ Hammerlun Center for Leadership and Learning 507 E University Ave, Georgetown, T
 - **Date:** November 11, 2023 (Saturday)
 - **Time:** 11:00 AM
 - **Location:** Georgetown Field of Honor
-- **Address:** 103 Chamber Way, Georgetown, TX 78626
+- **Address:** Hammerlun Center for Leadership and Learning 507 E University Ave, Georgetown, TX 78626
 - **Performing:**
   - Opening Hymn: In Flanders Fields
     - [Practice YouTube](https://youtu.be/3g-VBcnLdBM)
